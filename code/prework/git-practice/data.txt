@@ -1,1 +1,3 @@
-Hello hello
+Name: Elise
+Age: 25
+Favorite color: Yellow
